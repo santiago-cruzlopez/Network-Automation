@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/santi_cruz/Documents/Network-Automation/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/NETCAD.dir/main.cpp.o -c /home/santi_cruz/Documents/Network-Automation/main.cpp",
+  "file": "/home/santi_cruz/Documents/Network-Automation/main.cpp"
+}
+]

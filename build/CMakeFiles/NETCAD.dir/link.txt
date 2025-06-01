@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/NETCAD.dir/main.cpp.o -o NETCAD 
