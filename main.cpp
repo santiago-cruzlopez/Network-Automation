@@ -1,8 +1,9 @@
 #include <iostream>
-#include <vector>
+#include <iomanip>
 #include <string>
-#include <SDL2/SDL.h>
 #include <cmath>
+#include <vector>
+#include <SDL2/SDL.h>
 
 // This code is just for testing purposes.
 // sudo apt install pkgconf libsdl2-dev
@@ -23,15 +24,10 @@ int main(void)
     cin >> x;
 
     y = (pow(x,2)/(pow(pi,2)*((pow(x,2))+0.5)))*(1+(pow(x,2)/(pow(pi,2)*((pow(x,2))+0.5))));
-    cout << "y: " << y << endl;
+    cout << "y: " << std::setprecision(5) << std::fixed << y << endl;
 
     EnumTest myEnum = TEST1;
-
-    if(myEnum == TEST1)
-    {
-        cout << "TEST1 is set to 1" << endl;
-    }
-
+    if(myEnum == TEST1){cout << "TEST1 is set to 1" << endl;}
     std::cout << "EnumTest size: " << sizeof(EnumTest) << " bytes" << std::endl;
     
     return 0;
