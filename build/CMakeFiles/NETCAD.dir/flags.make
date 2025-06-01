@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include
 
 CXX_FLAGS = -g
 

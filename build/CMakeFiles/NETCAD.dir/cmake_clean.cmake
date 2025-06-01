@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
+  "../bin/Linux64/Debug/NETCAD"
+  "../bin/Linux64/Debug/NETCAD.pdb"
+  "CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o"
+  "CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o.d"
   "CMakeFiles/NETCAD.dir/main.cpp.o"
   "CMakeFiles/NETCAD.dir/main.cpp.o.d"
-  "NETCAD"
-  "NETCAD.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

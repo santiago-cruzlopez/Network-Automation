@@ -129,6 +129,30 @@ NETCAD/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/build
 .PHONY : NETCAD/fast
 
+Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.o: Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o
+.PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.o
+
+# target to build an object file
+Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o
+.PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o
+
+Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.i: Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.i
+.PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.i
+
+# target to preprocess a source file
+Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.i
+.PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.i
+
+Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.s: Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
+.PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.s
+
+# target to generate assembly for a file
+Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
+.PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... NETCAD"
+	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.o"
+	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.i"
+	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

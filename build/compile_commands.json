@@ -1,7 +1,12 @@
 [
 {
   "directory": "/home/santi_cruz/Documents/Network-Automation/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/NETCAD.dir/main.cpp.o -c /home/santi_cruz/Documents/Network-Automation/main.cpp",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -g -o CMakeFiles/NETCAD.dir/main.cpp.o -c /home/santi_cruz/Documents/Network-Automation/main.cpp",
   "file": "/home/santi_cruz/Documents/Network-Automation/main.cpp"
+},
+{
+  "directory": "/home/santi_cruz/Documents/Network-Automation/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -g -o CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o -c /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp",
+  "file": "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp"
 }
 ]

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp" "CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o.d"
   "/home/santi_cruz/Documents/Network-Automation/main.cpp" "CMakeFiles/NETCAD.dir/main.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/main.cpp.o.d"
   )
 

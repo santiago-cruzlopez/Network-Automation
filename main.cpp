@@ -1,29 +1,35 @@
 #include <iostream>
 #include <vector>
 #include <string>
-//#include <SDL2/SDL.h>
+#include <SDL2/SDL.h>
+#include <cmath>
 
-    enum EnumTest
-{
-    TEST1 = 1<<0,
-    TEST2 = 1<<1,
-    TEST3 = 1<<2,
-    TEST4 = 1<<3,
-};  
+// This code is just for testing purposes.
+// sudo apt install pkgconf libsdl2-dev
 
-int main()
+using namespace std;
+enum EnumTest{TEST1 = 1<<0, TEST2 = 1<<1,};  
+
+int main(void)
 {   
-    bool red = true;
-    bool green = false;
+    // SDL
+    SDL_Init(SDL_INIT_VIDEO);
+
+    double pi = M_PI; 
+    std::cout << "Pi: " << pi << std::endl;
+    float x,y;
+
+    cout << "Enter x: ";
+    cin >> x;
+
+    y = (pow(x,2)/(pow(pi,2)*((pow(x,2))+0.5)))*(1+(pow(x,2)/(pow(pi,2)*((pow(x,2))+0.5))));
+    cout << "y: " << y << endl;
+
     EnumTest myEnum = TEST1;
 
-    if(myEnum == TEST1 && red == true)
+    if(myEnum == TEST1)
     {
-        std::cout << "TEST1 is set to 1" << std::endl;
-    }
-    else if(green == false)
-    {
-        std::cout << "TEST1 is not set" << std::endl;
+        cout << "TEST1 is set to 1" << endl;
     }
 
     std::cout << "EnumTest size: " << sizeof(EnumTest) << " bytes" << std::endl;
