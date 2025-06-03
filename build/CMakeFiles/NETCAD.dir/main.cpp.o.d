@@ -298,4 +298,11 @@ CMakeFiles/NETCAD.dir/main.cpp.o: \
  /usr/include/SDL2/SDL_power.h /usr/include/SDL2/SDL_render.h \
  /usr/include/SDL2/SDL_shape.h /usr/include/SDL2/SDL_system.h \
  /usr/include/SDL2/SDL_timer.h /usr/include/SDL2/SDL_version.h \
- /usr/include/SDL2/SDL_locale.h /usr/include/SDL2/SDL_misc.h
+ /usr/include/SDL2/SDL_locale.h /usr/include/SDL2/SDL_misc.h \
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPI.h \
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/LinuxCOM.h \
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPITypes.h \
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIModes.h \
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDiscovery.h \
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIConfiguration.h \
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDeckControl.h

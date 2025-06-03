@@ -4,6 +4,7 @@
 #include <cmath>
 #include <vector>
 #include <SDL2/SDL.h>
+#include <DeckLinkAPI.h>
 
 // This code is just for testing purposes.
 // sudo apt install pkgconf libsdl2-dev
@@ -29,6 +30,17 @@ int main(void)
     EnumTest myEnum = TEST1;
     if(myEnum == TEST1){cout << "TEST1 is set to 1" << endl;}
     std::cout << "EnumTest size: " << sizeof(EnumTest) << " bytes" << std::endl;
+
+    // Try to call a DeckLink API function to check linking
+    IDeckLinkIterator* iterator = CreateDeckLinkIteratorInstance();
+    if (iterator) {
+        std::cout << "DeckLink API linked and CreateDeckLinkIteratorInstance() succeeded." << std::endl;
+        iterator->Release();
+        return 0;
+    } else {
+        std::cout << "DeckLink API not found or not linked properly." << std::endl;
+        return 1;
+    }
     
     return 0;
 }
