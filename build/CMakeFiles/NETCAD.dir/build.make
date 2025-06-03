@@ -69,19 +69,19 @@ include CMakeFiles/NETCAD.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/NETCAD.dir/flags.make
 
-CMakeFiles/NETCAD.dir/main.cpp.o: CMakeFiles/NETCAD.dir/flags.make
-CMakeFiles/NETCAD.dir/main.cpp.o: ../main.cpp
-CMakeFiles/NETCAD.dir/main.cpp.o: CMakeFiles/NETCAD.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/NETCAD.dir/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/NETCAD.dir/main.cpp.o -MF CMakeFiles/NETCAD.dir/main.cpp.o.d -o CMakeFiles/NETCAD.dir/main.cpp.o -c /home/santi_cruz/Documents/Network-Automation/main.cpp
+CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o: CMakeFiles/NETCAD.dir/flags.make
+CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o: ../DeckLink_Capture.cpp
+CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o: CMakeFiles/NETCAD.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o -MF CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o.d -o CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o -c /home/santi_cruz/Documents/Network-Automation/DeckLink_Capture.cpp
 
-CMakeFiles/NETCAD.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NETCAD.dir/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/santi_cruz/Documents/Network-Automation/main.cpp > CMakeFiles/NETCAD.dir/main.cpp.i
+CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/santi_cruz/Documents/Network-Automation/DeckLink_Capture.cpp > CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.i
 
-CMakeFiles/NETCAD.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NETCAD.dir/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/santi_cruz/Documents/Network-Automation/main.cpp -o CMakeFiles/NETCAD.dir/main.cpp.s
+CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/santi_cruz/Documents/Network-Automation/DeckLink_Capture.cpp -o CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.s
 
 CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o: CMakeFiles/NETCAD.dir/flags.make
 CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o: ../Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp
@@ -97,19 +97,51 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp -o CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
 
+CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o: CMakeFiles/NETCAD.dir/flags.make
+CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o: ../src_sdk/DeckLinkManager.cpp
+CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o: CMakeFiles/NETCAD.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o -MF CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o.d -o CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o -c /home/santi_cruz/Documents/Network-Automation/src_sdk/DeckLinkManager.cpp
+
+CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/santi_cruz/Documents/Network-Automation/src_sdk/DeckLinkManager.cpp > CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.i
+
+CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/santi_cruz/Documents/Network-Automation/src_sdk/DeckLinkManager.cpp -o CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.s
+
+CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o: CMakeFiles/NETCAD.dir/flags.make
+CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o: ../src_sdk/CaptureDelegate.cpp
+CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o: CMakeFiles/NETCAD.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o -MF CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o.d -o CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o -c /home/santi_cruz/Documents/Network-Automation/src_sdk/CaptureDelegate.cpp
+
+CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/santi_cruz/Documents/Network-Automation/src_sdk/CaptureDelegate.cpp > CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.i
+
+CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/santi_cruz/Documents/Network-Automation/src_sdk/CaptureDelegate.cpp -o CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.s
+
 # Object files for target NETCAD
 NETCAD_OBJECTS = \
-"CMakeFiles/NETCAD.dir/main.cpp.o" \
-"CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o"
+"CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o" \
+"CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o" \
+"CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o" \
+"CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o"
 
 # External object files for target NETCAD
 NETCAD_EXTERNAL_OBJECTS =
 
-../bin/Linux64/Debug/NETCAD: CMakeFiles/NETCAD.dir/main.cpp.o
+../bin/Linux64/Debug/NETCAD: CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o
 ../bin/Linux64/Debug/NETCAD: CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o
+../bin/Linux64/Debug/NETCAD: CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o
+../bin/Linux64/Debug/NETCAD: CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o
 ../bin/Linux64/Debug/NETCAD: CMakeFiles/NETCAD.dir/build.make
 ../bin/Linux64/Debug/NETCAD: CMakeFiles/NETCAD.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ../bin/Linux64/Debug/NETCAD"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../bin/Linux64/Debug/NETCAD"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NETCAD.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

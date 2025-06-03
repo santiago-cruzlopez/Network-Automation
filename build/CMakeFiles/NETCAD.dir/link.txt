@@ -1,1 +1,1 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/NETCAD.dir/main.cpp.o CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o -o ../bin/Linux64/Debug/NETCAD  -L/usr/lib/x86_64-linux-gnu  -lSDL2 -ldl -lpthread 
+/usr/bin/g++ -g -rdynamic CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o -o ../bin/Linux64/Debug/NETCAD  -L/usr/lib/x86_64-linux-gnu  -lSDL2 -ldl -lpthread 

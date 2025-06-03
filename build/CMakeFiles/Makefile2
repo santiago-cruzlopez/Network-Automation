@@ -81,12 +81,12 @@ clean: CMakeFiles/NETCAD.dir/clean
 CMakeFiles/NETCAD.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=1,2,3 "Built target NETCAD"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target NETCAD"
 .PHONY : CMakeFiles/NETCAD.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NETCAD.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/santi_cruz/Documents/Network-Automation/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/santi_cruz/Documents/Network-Automation/build/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/NETCAD.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/santi_cruz/Documents/Network-Automation/build/CMakeFiles 0
 .PHONY : CMakeFiles/NETCAD.dir/rule

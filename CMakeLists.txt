@@ -22,16 +22,23 @@ set(DECKLINK_SOURCES
     "${DECKLINK_SDK_PATH}/include/DeckLinkAPIDispatch.cpp"
 )
 
+set(APP_SOURCES
+    "${CMAKE_SOURCE_DIR}/src_sdk/DeckLinkManager.cpp"
+    "${CMAKE_SOURCE_DIR}/src_sdk/CaptureDelegate.cpp"
+)
+
 # Create executable
 add_executable(${PROJECT_NAME} 
-    main.cpp
+    DeckLink_Capture.cpp
     ${DECKLINK_SOURCES}
+    ${APP_SOURCES}
 )
 
 # Configure include directories
 target_include_directories(${PROJECT_NAME} PRIVATE 
     ${SDL2_INCLUDE_DIRS}
     "${DECKLINK_SDK_PATH}/include"
+    "${CMAKE_SOURCE_DIR}/src_sdk"
 )
 
 # Link libraries

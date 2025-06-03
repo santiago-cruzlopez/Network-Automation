@@ -153,29 +153,77 @@ Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
 .PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
 
-main.o: main.cpp.o
-.PHONY : main.o
+DeckLink_Capture.o: DeckLink_Capture.cpp.o
+.PHONY : DeckLink_Capture.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/main.cpp.o
-.PHONY : main.cpp.o
+DeckLink_Capture.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o
+.PHONY : DeckLink_Capture.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+DeckLink_Capture.i: DeckLink_Capture.cpp.i
+.PHONY : DeckLink_Capture.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/main.cpp.i
-.PHONY : main.cpp.i
+DeckLink_Capture.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.i
+.PHONY : DeckLink_Capture.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+DeckLink_Capture.s: DeckLink_Capture.cpp.s
+.PHONY : DeckLink_Capture.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/main.cpp.s
-.PHONY : main.cpp.s
+DeckLink_Capture.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.s
+.PHONY : DeckLink_Capture.cpp.s
+
+src_sdk/CaptureDelegate.o: src_sdk/CaptureDelegate.cpp.o
+.PHONY : src_sdk/CaptureDelegate.o
+
+# target to build an object file
+src_sdk/CaptureDelegate.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o
+.PHONY : src_sdk/CaptureDelegate.cpp.o
+
+src_sdk/CaptureDelegate.i: src_sdk/CaptureDelegate.cpp.i
+.PHONY : src_sdk/CaptureDelegate.i
+
+# target to preprocess a source file
+src_sdk/CaptureDelegate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.i
+.PHONY : src_sdk/CaptureDelegate.cpp.i
+
+src_sdk/CaptureDelegate.s: src_sdk/CaptureDelegate.cpp.s
+.PHONY : src_sdk/CaptureDelegate.s
+
+# target to generate assembly for a file
+src_sdk/CaptureDelegate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.s
+.PHONY : src_sdk/CaptureDelegate.cpp.s
+
+src_sdk/DeckLinkManager.o: src_sdk/DeckLinkManager.cpp.o
+.PHONY : src_sdk/DeckLinkManager.o
+
+# target to build an object file
+src_sdk/DeckLinkManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o
+.PHONY : src_sdk/DeckLinkManager.cpp.o
+
+src_sdk/DeckLinkManager.i: src_sdk/DeckLinkManager.cpp.i
+.PHONY : src_sdk/DeckLinkManager.i
+
+# target to preprocess a source file
+src_sdk/DeckLinkManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.i
+.PHONY : src_sdk/DeckLinkManager.cpp.i
+
+src_sdk/DeckLinkManager.s: src_sdk/DeckLinkManager.cpp.s
+.PHONY : src_sdk/DeckLinkManager.s
+
+# target to generate assembly for a file
+src_sdk/DeckLinkManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.s
+.PHONY : src_sdk/DeckLinkManager.cpp.s
 
 # Help Target
 help:
@@ -189,9 +237,15 @@ help:
 	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.o"
 	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.i"
 	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... DeckLink_Capture.o"
+	@echo "... DeckLink_Capture.i"
+	@echo "... DeckLink_Capture.s"
+	@echo "... src_sdk/CaptureDelegate.o"
+	@echo "... src_sdk/CaptureDelegate.i"
+	@echo "... src_sdk/CaptureDelegate.s"
+	@echo "... src_sdk/DeckLinkManager.o"
+	@echo "... src_sdk/DeckLinkManager.i"
+	@echo "... src_sdk/DeckLinkManager.s"
 .PHONY : help
 
 
