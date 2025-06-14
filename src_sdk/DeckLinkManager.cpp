@@ -1,7 +1,5 @@
 #include "DeckLinkManager.h"
 #include <iostream>
-// #include <vector>    // Not strictly needed for input-only manager
-// #include <algorithm> // Not strictly needed for input-only manager
 
 const int TARGET_INPUT_SUBDEVICE_INDEX = 0; // Changed as per your ffmpeg output likely pointing to index 0
 
@@ -41,11 +39,11 @@ DeckLinkManager::~DeckLinkManager() {
 // Helper function to convert BMDPixelFormat to std::string
 std::string DeckLinkManager::PixelFormatToStdString(BMDPixelFormat pixelFormat) {
     switch (pixelFormat) {
-        case bmdFormat8BitYUV:  return "8-bit YUV 4:2:2 ('2vuy')";    // [cite: 4767]
-        case bmdFormat10BitYUV: return "10-bit YUV 4:2:2 ('v210')";   // [cite: 4771]
-        case bmdFormat8BitARGB: return "8-bit ARGB 4:4:4:4";          // [cite: 4783]
-        case bmdFormat8BitBGRA: return "8-bit BGRA 4:4:4:4"; // Often referred to as RGB32 [cite: 4788]
-        case bmdFormat10BitRGB: return "10-bit RGB 4:4:4 ('r210')";   // [cite: 4793]
+        case bmdFormat8BitYUV:  return "8-bit YUV 4:2:2 ('2vuy')";    
+        case bmdFormat10BitYUV: return "10-bit YUV 4:2:2 ('v210')";   
+        case bmdFormat8BitARGB: return "8-bit ARGB 4:4:4:4";          
+        case bmdFormat8BitBGRA: return "8-bit BGRA 4:4:4:4"; 
+        case bmdFormat10BitRGB: return "10-bit RGB 4:4:4 ('r210')";  
         // Add other formats as needed from SDK manual (Section 3.4)
         default:                return "Unknown Pixel Format";
     }
@@ -134,8 +132,8 @@ bool DeckLinkManager::ConfigureInput() {
         bmdVideoConnectionSDI,
         m_selectedDisplayMode,
         m_pixelFormat,
-        bmdNoVideoInputConversion,      // From BMDVideoInputConversionMode enum [cite: 5056]
-        bmdSupportedVideoModeDefault,   // From BMDSupportedVideoModeFlags enum [cite: 5232]
+        bmdNoVideoInputConversion,      // From BMDVideoInputConversionMode enum 
+        bmdSupportedVideoModeDefault,   // From BMDSupportedVideoModeFlags enum 
         nullptr,                        
         &isModeSupported               
     ); //
