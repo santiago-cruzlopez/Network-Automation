@@ -23,13 +23,13 @@ set(DECKLINK_SOURCES
 )
 
 set(APP_SOURCES
-    "${CMAKE_SOURCE_DIR}/src_sdk/DeckLinkManager.cpp"
-    "${CMAKE_SOURCE_DIR}/src_sdk/CaptureDelegate.cpp"
+    "${CMAKE_SOURCE_DIR}/Broadcasting_Media/src_sdk/DeckLinkManager.cpp"
+    "${CMAKE_SOURCE_DIR}/Broadcasting_Media/src_sdk/CaptureDelegate.cpp"
 )
 
 # Create executable
 add_executable(${PROJECT_NAME} 
-    DeckLink_Capture.cpp
+    "${CMAKE_SOURCE_DIR}/Broadcasting_Media/SDK_Test.cpp"
     ${DECKLINK_SOURCES}
     ${APP_SOURCES}
 )
@@ -38,7 +38,7 @@ add_executable(${PROJECT_NAME}
 target_include_directories(${PROJECT_NAME} PRIVATE 
     ${SDL2_INCLUDE_DIRS}
     "${DECKLINK_SDK_PATH}/include"
-    "${CMAKE_SOURCE_DIR}/src_sdk"
+    "${CMAKE_SOURCE_DIR}/Broadcasting_Media/src_sdk"
 )
 
 # Link libraries

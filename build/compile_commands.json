@@ -1,22 +1,22 @@
 [
 {
   "directory": "/home/santi_cruz/Documents/Network-Automation/build",
-  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/src_sdk -g -o CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o -c /home/santi_cruz/Documents/Network-Automation/DeckLink_Capture.cpp",
-  "file": "/home/santi_cruz/Documents/Network-Automation/DeckLink_Capture.cpp"
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk -g -o CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.o -c /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/SDK_Test.cpp",
+  "file": "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/SDK_Test.cpp"
 },
 {
   "directory": "/home/santi_cruz/Documents/Network-Automation/build",
-  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/src_sdk -g -o CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o -c /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk -g -o CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o -c /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp",
   "file": "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp"
 },
 {
   "directory": "/home/santi_cruz/Documents/Network-Automation/build",
-  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/src_sdk -g -o CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o -c /home/santi_cruz/Documents/Network-Automation/src_sdk/DeckLinkManager.cpp",
-  "file": "/home/santi_cruz/Documents/Network-Automation/src_sdk/DeckLinkManager.cpp"
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk -g -o CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o -c /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/DeckLinkManager.cpp",
+  "file": "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/DeckLinkManager.cpp"
 },
 {
   "directory": "/home/santi_cruz/Documents/Network-Automation/build",
-  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/src_sdk -g -o CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o -c /home/santi_cruz/Documents/Network-Automation/src_sdk/CaptureDelegate.cpp",
-  "file": "/home/santi_cruz/Documents/Network-Automation/src_sdk/CaptureDelegate.cpp"
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include -I/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk -g -o CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o -c /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/CaptureDelegate.cpp",
+  "file": "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/CaptureDelegate.cpp"
 }
 ]

@@ -70,7 +70,7 @@
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/home/santi_cruz/Documents/Network-Automation/src_sdk"
+					"path" : "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk"
 				}
 			],
 			"language" : "CXX",
@@ -139,7 +139,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DeckLink_Capture.cpp",
+			"path" : "Broadcasting_Media/SDK_Test.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -151,13 +151,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src_sdk/DeckLinkManager.cpp",
+			"path" : "Broadcasting_Media/src_sdk/DeckLinkManager.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src_sdk/CaptureDelegate.cpp",
+			"path" : "Broadcasting_Media/src_sdk/CaptureDelegate.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
