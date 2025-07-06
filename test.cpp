@@ -7,13 +7,6 @@
 #include <csignal>
 #include <SDL2/SDL.h>
 
-void signal_handler(int signal) {
-    if (g_deckLinkManager) {
-        std::cout << "\nInterrupt signal (" << signal << ") received. Shutting down input..." << std::endl;
-        g_deckLinkManager->g_do_exit = true; 
-    }
-}
-
 using namespace std;
 enum EnumTest{TEST1 = 1<<0, TEST2 = 1<<1,};  
 
