@@ -10,8 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp" "CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.o.d"
   "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/SDK_Test.cpp" "CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.o.d"
-  "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/CaptureDelegate.cpp" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o.d"
-  "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/DeckLinkManager.cpp" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o.d"
+  "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o.d"
+  "/home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o" "gcc" "CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o.d"
   )
 
 # Targets to which this target links.

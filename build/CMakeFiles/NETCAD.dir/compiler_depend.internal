@@ -270,10 +270,10 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.o
  /usr/include/string.h
  /usr/include/strings.h
 
-CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o
- /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/CaptureDelegate.cpp
+CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp
  /usr/include/stdc-predef.h
- /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/CaptureDelegate.h
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/CaptureDelegate.h
  /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPI.h
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h
  /usr/include/stdint.h
@@ -307,7 +307,7 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o
  /usr/include/c++/11/bits/atomic_lockfree_defines.h
  /usr/include/c++/11/bits/move.h
  /usr/include/c++/11/type_traits
- /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/DeckLinkManager.h
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/DeckLinkManager.h
  /usr/include/c++/11/string
  /usr/include/c++/11/bits/stringfwd.h
  /usr/include/c++/11/bits/memoryfwd.h
@@ -472,10 +472,10 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o
  /usr/include/string.h
  /usr/include/strings.h
 
-CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o
- /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/DeckLinkManager.cpp
+CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp
  /usr/include/stdc-predef.h
- /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/DeckLinkManager.h
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/DeckLinkManager.h
  /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPI.h
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h
  /usr/include/stdint.h
@@ -500,7 +500,7 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o
  /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDiscovery.h
  /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIConfiguration.h
  /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/Linux/include/DeckLinkAPIDeckControl.h
- /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk/CaptureDelegate.h
+ /home/santi_cruz/Documents/Network-Automation/Broadcasting_Media/src_sdk_capture/CaptureDelegate.h
  /usr/include/c++/11/atomic
  /usr/include/c++/11/bits/atomic_base.h
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h

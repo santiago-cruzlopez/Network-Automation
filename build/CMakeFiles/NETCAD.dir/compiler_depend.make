@@ -268,9 +268,9 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.o: ../Broadcasting_Media/S
   /usr/include/string.h \
   /usr/include/strings.h
 
-CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o: ../Broadcasting_Media/src_sdk/CaptureDelegate.cpp \
+CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o: ../Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp \
   /usr/include/stdc-predef.h \
-  ../Broadcasting_Media/src_sdk/CaptureDelegate.h \
+  ../Broadcasting_Media/src_sdk_capture/CaptureDelegate.h \
   ../Broadcasting_Media/Linux/include/DeckLinkAPI.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
   /usr/include/stdint.h \
@@ -304,7 +304,7 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o: ../Broad
   /usr/include/c++/11/bits/atomic_lockfree_defines.h \
   /usr/include/c++/11/bits/move.h \
   /usr/include/c++/11/type_traits \
-  ../Broadcasting_Media/src_sdk/DeckLinkManager.h \
+  ../Broadcasting_Media/src_sdk_capture/DeckLinkManager.h \
   /usr/include/c++/11/string \
   /usr/include/c++/11/bits/stringfwd.h \
   /usr/include/c++/11/bits/memoryfwd.h \
@@ -469,9 +469,9 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/CaptureDelegate.cpp.o: ../Broad
   /usr/include/string.h \
   /usr/include/strings.h
 
-CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broadcasting_Media/src_sdk/DeckLinkManager.cpp \
+CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o: ../Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp \
   /usr/include/stdc-predef.h \
-  ../Broadcasting_Media/src_sdk/DeckLinkManager.h \
+  ../Broadcasting_Media/src_sdk_capture/DeckLinkManager.h \
   ../Broadcasting_Media/Linux/include/DeckLinkAPI.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
   /usr/include/stdint.h \
@@ -496,7 +496,7 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broad
   ../Broadcasting_Media/Linux/include/DeckLinkAPIDiscovery.h \
   ../Broadcasting_Media/Linux/include/DeckLinkAPIConfiguration.h \
   ../Broadcasting_Media/Linux/include/DeckLinkAPIDeckControl.h \
-  ../Broadcasting_Media/src_sdk/CaptureDelegate.h \
+  ../Broadcasting_Media/src_sdk_capture/CaptureDelegate.h \
   /usr/include/c++/11/atomic \
   /usr/include/c++/11/bits/atomic_base.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -668,6 +668,8 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broad
   /usr/include/c++/11/bits/istream.tcc
 
 
+../Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp:
+
 /usr/include/c++/11/bits/vector.tcc:
 
 /usr/include/c++/11/bits/stl_bvector.h:
@@ -676,9 +678,7 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broad
 
 /usr/include/c++/11/vector:
 
-../Broadcasting_Media/src_sdk/CaptureDelegate.h:
-
-../Broadcasting_Media/src_sdk/CaptureDelegate.cpp:
+../Broadcasting_Media/src_sdk_capture/DeckLinkManager.h:
 
 /usr/include/string.h:
 
@@ -824,8 +824,6 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broad
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
-../Broadcasting_Media/src_sdk/DeckLinkManager.cpp:
-
 /usr/include/c++/11/cstdlib:
 
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
@@ -912,8 +910,6 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broad
 
 /usr/include/c++/11/bits/ios_base.h:
 
-../Broadcasting_Media/src_sdk/DeckLinkManager.h:
-
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
 /usr/include/wchar.h:
@@ -973,6 +969,8 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broad
 ../Broadcasting_Media/Linux/include/DeckLinkAPIDeckControl.h:
 
 ../Broadcasting_Media/SDK_Test.cpp:
+
+../Broadcasting_Media/src_sdk_capture/CaptureDelegate.h:
 
 /usr/include/x86_64-linux-gnu/bits/time.h:
 
@@ -1045,6 +1043,8 @@ CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk/DeckLinkManager.cpp.o: ../Broad
 /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
 /usr/include/c++/11/bits/functexcept.h:
+
+../Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp:
 
 ../Broadcasting_Media/Linux/include/DeckLinkAPIConfiguration.h:
 
