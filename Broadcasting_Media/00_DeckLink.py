@@ -1,5 +1,5 @@
 #Test comment
-
+#TEST
 # Python Script to check the DeckLink Duo Video and Audio Capabilities 
 
 import gi
