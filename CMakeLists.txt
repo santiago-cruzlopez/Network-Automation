@@ -32,6 +32,7 @@ set(APP_SOURCES
 add_executable(${PROJECT_NAME} 
     "${CMAKE_SOURCE_DIR}/Broadcasting_Media/SDK_Test.cpp"
     ${DECKLINK_SOURCES}
+
     ${APP_SOURCES}
 )
 
