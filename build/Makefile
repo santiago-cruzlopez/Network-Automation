@@ -153,77 +153,77 @@ Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
 .PHONY : Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.cpp.s
 
-DeckLink_Capture.o: DeckLink_Capture.cpp.o
-.PHONY : DeckLink_Capture.o
+Broadcasting_Media/SDK_Test.o: Broadcasting_Media/SDK_Test.cpp.o
+.PHONY : Broadcasting_Media/SDK_Test.o
 
 # target to build an object file
-DeckLink_Capture.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.o
-.PHONY : DeckLink_Capture.cpp.o
+Broadcasting_Media/SDK_Test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.o
+.PHONY : Broadcasting_Media/SDK_Test.cpp.o
 
-DeckLink_Capture.i: DeckLink_Capture.cpp.i
-.PHONY : DeckLink_Capture.i
+Broadcasting_Media/SDK_Test.i: Broadcasting_Media/SDK_Test.cpp.i
+.PHONY : Broadcasting_Media/SDK_Test.i
 
 # target to preprocess a source file
-DeckLink_Capture.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.i
-.PHONY : DeckLink_Capture.cpp.i
+Broadcasting_Media/SDK_Test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.i
+.PHONY : Broadcasting_Media/SDK_Test.cpp.i
 
-DeckLink_Capture.s: DeckLink_Capture.cpp.s
-.PHONY : DeckLink_Capture.s
+Broadcasting_Media/SDK_Test.s: Broadcasting_Media/SDK_Test.cpp.s
+.PHONY : Broadcasting_Media/SDK_Test.s
 
 # target to generate assembly for a file
-DeckLink_Capture.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/DeckLink_Capture.cpp.s
-.PHONY : DeckLink_Capture.cpp.s
+Broadcasting_Media/SDK_Test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/SDK_Test.cpp.s
+.PHONY : Broadcasting_Media/SDK_Test.cpp.s
 
-src_sdk/CaptureDelegate.o: src_sdk/CaptureDelegate.cpp.o
-.PHONY : src_sdk/CaptureDelegate.o
+Broadcasting_Media/src_sdk_capture/CaptureDelegate.o: Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o
+.PHONY : Broadcasting_Media/src_sdk_capture/CaptureDelegate.o
 
 # target to build an object file
-src_sdk/CaptureDelegate.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.o
-.PHONY : src_sdk/CaptureDelegate.cpp.o
+Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o
+.PHONY : Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.o
 
-src_sdk/CaptureDelegate.i: src_sdk/CaptureDelegate.cpp.i
-.PHONY : src_sdk/CaptureDelegate.i
+Broadcasting_Media/src_sdk_capture/CaptureDelegate.i: Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.i
+.PHONY : Broadcasting_Media/src_sdk_capture/CaptureDelegate.i
 
 # target to preprocess a source file
-src_sdk/CaptureDelegate.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.i
-.PHONY : src_sdk/CaptureDelegate.cpp.i
+Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.i
+.PHONY : Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.i
 
-src_sdk/CaptureDelegate.s: src_sdk/CaptureDelegate.cpp.s
-.PHONY : src_sdk/CaptureDelegate.s
+Broadcasting_Media/src_sdk_capture/CaptureDelegate.s: Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.s
+.PHONY : Broadcasting_Media/src_sdk_capture/CaptureDelegate.s
 
 # target to generate assembly for a file
-src_sdk/CaptureDelegate.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/CaptureDelegate.cpp.s
-.PHONY : src_sdk/CaptureDelegate.cpp.s
+Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.s
+.PHONY : Broadcasting_Media/src_sdk_capture/CaptureDelegate.cpp.s
 
-src_sdk/DeckLinkManager.o: src_sdk/DeckLinkManager.cpp.o
-.PHONY : src_sdk/DeckLinkManager.o
+Broadcasting_Media/src_sdk_capture/DeckLinkManager.o: Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o
+.PHONY : Broadcasting_Media/src_sdk_capture/DeckLinkManager.o
 
 # target to build an object file
-src_sdk/DeckLinkManager.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.o
-.PHONY : src_sdk/DeckLinkManager.cpp.o
+Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o
+.PHONY : Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.o
 
-src_sdk/DeckLinkManager.i: src_sdk/DeckLinkManager.cpp.i
-.PHONY : src_sdk/DeckLinkManager.i
+Broadcasting_Media/src_sdk_capture/DeckLinkManager.i: Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.i
+.PHONY : Broadcasting_Media/src_sdk_capture/DeckLinkManager.i
 
 # target to preprocess a source file
-src_sdk/DeckLinkManager.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.i
-.PHONY : src_sdk/DeckLinkManager.cpp.i
+Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.i
+.PHONY : Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.i
 
-src_sdk/DeckLinkManager.s: src_sdk/DeckLinkManager.cpp.s
-.PHONY : src_sdk/DeckLinkManager.s
+Broadcasting_Media/src_sdk_capture/DeckLinkManager.s: Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.s
+.PHONY : Broadcasting_Media/src_sdk_capture/DeckLinkManager.s
 
 # target to generate assembly for a file
-src_sdk/DeckLinkManager.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/src_sdk/DeckLinkManager.cpp.s
-.PHONY : src_sdk/DeckLinkManager.cpp.s
+Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NETCAD.dir/build.make CMakeFiles/NETCAD.dir/Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.s
+.PHONY : Broadcasting_Media/src_sdk_capture/DeckLinkManager.cpp.s
 
 # Help Target
 help:
@@ -237,15 +237,15 @@ help:
 	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.o"
 	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.i"
 	@echo "... Broadcasting_Media/Linux/include/DeckLinkAPIDispatch.s"
-	@echo "... DeckLink_Capture.o"
-	@echo "... DeckLink_Capture.i"
-	@echo "... DeckLink_Capture.s"
-	@echo "... src_sdk/CaptureDelegate.o"
-	@echo "... src_sdk/CaptureDelegate.i"
-	@echo "... src_sdk/CaptureDelegate.s"
-	@echo "... src_sdk/DeckLinkManager.o"
-	@echo "... src_sdk/DeckLinkManager.i"
-	@echo "... src_sdk/DeckLinkManager.s"
+	@echo "... Broadcasting_Media/SDK_Test.o"
+	@echo "... Broadcasting_Media/SDK_Test.i"
+	@echo "... Broadcasting_Media/SDK_Test.s"
+	@echo "... Broadcasting_Media/src_sdk_capture/CaptureDelegate.o"
+	@echo "... Broadcasting_Media/src_sdk_capture/CaptureDelegate.i"
+	@echo "... Broadcasting_Media/src_sdk_capture/CaptureDelegate.s"
+	@echo "... Broadcasting_Media/src_sdk_capture/DeckLinkManager.o"
+	@echo "... Broadcasting_Media/src_sdk_capture/DeckLinkManager.i"
+	@echo "... Broadcasting_Media/src_sdk_capture/DeckLinkManager.s"
 .PHONY : help
 
 
