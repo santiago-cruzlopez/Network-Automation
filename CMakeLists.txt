@@ -31,6 +31,7 @@ set(APP_SOURCES
 add_executable(${PROJECT_NAME} 
     DeckLink_Capture.cpp
     ${DECKLINK_SOURCES}
+
     ${APP_SOURCES}
 )
 
