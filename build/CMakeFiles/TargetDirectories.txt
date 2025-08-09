@@ -1,3 +1,0 @@
-/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles/NETCAD.dir
-/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles/edit_cache.dir
-/home/santi_cruz/Documents/Network-Automation/build/CMakeFiles/rebuild_cache.dir

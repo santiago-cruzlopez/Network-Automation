@@ -30,9 +30,8 @@ set(APP_SOURCES
 
 # Create executable
 add_executable(${PROJECT_NAME} 
-    "${CMAKE_SOURCE_DIR}/Broadcasting_Media/SDK_Test.cpp"
+    "${CMAKE_SOURCE_DIR}/Broadcasting_Media/00_SDK_SDI_Test.cpp"
     ${DECKLINK_SOURCES}
-
     ${APP_SOURCES}
 )
 

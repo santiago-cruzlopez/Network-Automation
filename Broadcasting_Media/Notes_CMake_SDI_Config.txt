@@ -81,9 +81,7 @@ endif()
 
 # Create executable
 add_executable(${PROJECT_NAME} 
-    SDK_Input_Output_01.cpp
-    # SDK_Input_Output_02.cpp - it doesn't work
-    # SDK_Input_Output_03.cpp 
+    02_SDK_SDI_Input_Output.cpp
     ${DECKLINK_SOURCES}
     #${APP_SOURCES}
 )
