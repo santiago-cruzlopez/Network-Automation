@@ -1,2 +1,3 @@
-# Network-Automation
-Network automation simplifies the configuration, management, testing, deployment, and operation of physical and virtual devices. It enhances service availability by automating routine tasks and minimizing human error.
+# Network and OS Optimization for High-Frequency Trading:
+
+This comprehensive project focuses on optimizing the software stack for minimal OS and network overhead in High-Frequency Trading (HFT) environments. The goal is to achieve sub-microsecond latency performance through DPDK-based kernel bypass techniques, lock-free ring buffers, and and system-level optimizations for sub-microsecond market-data processing on Ubuntu 22.04.
