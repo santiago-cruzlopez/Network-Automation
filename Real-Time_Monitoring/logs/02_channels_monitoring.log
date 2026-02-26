@@ -1,0 +1,603 @@
+2026-02-25 21:16:26,456 - INFO - ✓ ffprobe detected.
+2026-02-25 21:16:26,457 - INFO - Starting improved channel monitoring (strict black detection + auto-recovery)...
+2026-02-25 21:16:26,457 - INFO -   ✓ Rotana Masriya
+2026-02-25 21:16:26,458 - INFO -   ✓ Rotana Moussica
+2026-02-25 21:16:26,460 - INFO -   ✓ Rotana Clip
+2026-02-25 21:16:26,462 - INFO -   ✓ Rotana Khalijah
+2026-02-25 21:16:26,465 - INFO -   ✓ Rotana Cinema
+2026-02-25 21:16:26,465 - INFO -   ✓ Rotana Classic
+2026-02-25 21:16:31,714 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,727 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,728 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,739 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,739 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,753 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,753 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,763 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,764 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,773 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,774 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,783 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,784 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,793 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,793 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,803 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,804 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,813 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,814 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,823 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,823 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,833 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,833 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,842 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,843 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,852 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,852 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,863 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,863 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,872 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,872 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,882 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,882 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,892 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,893 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,902 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,902 - INFO - AV Sync changed for Rotana Cinema: [91mOut of Sync[0m
+2026-02-25 21:16:31,915 - INFO - AV Sync changed for Rotana Cinema: In Sync
+2026-02-25 21:16:31,999 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,017 - INFO - AV Sync changed for Rotana Khalijah: [91mOut of Sync[0m
+2026-02-25 21:16:32,024 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,024 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,044 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,044 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,054 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,058 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,059 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,060 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,076 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,078 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,083 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,083 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,084 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,086 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,100 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,101 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,106 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,107 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,111 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,114 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,126 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,127 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,134 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,135 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,136 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,137 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,146 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,147 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,148 - INFO - AV Sync changed for Rotana Classic: [91mOut of Sync[0m
+2026-02-25 21:16:32,154 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,155 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,171 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,171 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,171 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,172 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,173 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,174 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,189 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,191 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,196 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,196 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,213 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,214 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,226 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,227 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,228 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,228 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,228 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,229 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,243 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,244 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,244 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,245 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,248 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,249 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,257 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,258 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,262 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,262 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,266 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,267 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,272 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,273 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,277 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,278 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,281 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,282 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,288 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,289 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,290 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,291 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,292 - INFO - AV Sync changed for Rotana Classic: In Sync
+2026-02-25 21:16:32,295 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,295 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,302 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,302 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,307 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,307 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,308 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,311 - INFO - AV Sync changed for Rotana Clip: [91mOut of Sync[0m
+2026-02-25 21:16:32,313 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:16:32,314 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:16:32,319 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,320 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,331 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,332 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,343 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,343 - INFO - AV Sync changed for Rotana Masriya: [91mOut of Sync[0m
+2026-02-25 21:16:32,392 - INFO - AV Sync changed for Rotana Khalijah: In Sync
+2026-02-25 21:16:32,395 - INFO - AV Sync changed for Rotana Masriya: In Sync
+2026-02-25 21:16:32,433 - INFO - AV Sync changed for Rotana Clip: In Sync
+2026-02-25 21:16:32,434 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:17:11,427 - INFO - AV Sync changed for Rotana Khalijah: [91mOut of Sync[0m
+2026-02-25 21:17:11,635 - INFO - AV Sync changed for Rotana Khalijah: In Sync
+2026-02-25 21:17:34,528 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:35,590 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:36,651 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:37,718 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:38,783 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:39,846 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:40,913 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:41,976 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:43,040 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:44,102 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:45,166 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:46,226 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:47,285 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:47,798 - INFO - AV Sync changed for Rotana Khalijah: [91mOut of Sync[0m
+2026-02-25 21:17:47,954 - INFO - AV Sync changed for Rotana Khalijah: In Sync
+2026-02-25 21:17:48,348 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:49,410 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:50,475 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:51,541 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:52,602 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:53,664 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:54,728 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:55,790 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:56,897 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:57,960 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:17:59,041 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:00,104 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:01,163 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:02,226 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:03,288 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:04,347 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:05,409 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:06,470 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:07,528 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:08,592 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:09,656 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:10,720 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:11,778 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:12,839 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:13,901 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:14,957 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:16,023 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:17,083 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:18,145 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:19,202 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:20,259 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:21,326 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:22,382 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:23,441 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:24,506 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:25,564 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:26,624 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:27,684 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:28,741 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:29,803 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:30,867 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:31,925 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:32,984 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:34,043 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:35,104 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:36,161 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:37,222 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:38,098 - INFO - AV Sync changed for Rotana Khalijah: [91mOut of Sync[0m
+2026-02-25 21:18:38,187 - INFO - AV Sync changed for Rotana Khalijah: In Sync
+2026-02-25 21:18:38,282 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:39,344 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:40,267 - INFO - AV Sync changed for Rotana Khalijah: [91mOut of Sync[0m
+2026-02-25 21:18:40,402 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:40,479 - INFO - AV Sync changed for Rotana Khalijah: In Sync
+2026-02-25 21:18:41,227 - INFO - AV Sync changed for Rotana Khalijah: [91mOut of Sync[0m
+2026-02-25 21:18:41,432 - INFO - AV Sync changed for Rotana Khalijah: In Sync
+2026-02-25 21:18:41,460 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:42,519 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:43,579 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:44,637 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:45,696 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:46,763 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:47,825 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:48,886 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:49,946 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:51,003 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:52,067 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:53,127 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:54,189 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:55,251 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:56,314 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:57,373 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:58,435 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:18:59,496 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:00,555 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:01,619 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:02,677 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:03,736 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:04,798 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:05,859 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:06,919 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:07,982 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:09,047 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:10,107 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:11,168 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:12,230 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:13,288 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:14,345 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:15,406 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:16,466 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:17,524 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:18,587 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:19,648 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:20,706 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:21,763 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:22,824 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:23,884 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:24,945 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:26,010 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:27,067 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:28,131 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:29,194 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:30,253 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:31,316 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:32,374 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:33,431 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:34,488 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:35,548 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:36,610 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:37,670 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:38,729 - WARNING - ZERO BITRATE: Rotana Moussica
+2026-02-25 21:19:39,129 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:19:39,132 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:19:39,252 - INFO - AV Sync changed for Rotana Moussica: [91mOut of Sync[0m
+2026-02-25 21:19:39,465 - INFO - AV Sync changed for Rotana Moussica: In Sync
+2026-02-25 21:20:16,233 - INFO - AV Sync changed for Rotana Khalijah: [91mOut of Sync[0m
+2026-02-25 21:20:16,395 - INFO - AV Sync changed for Rotana Khalijah: In Sync
+2026-02-25 21:20:58,179 - INFO - Shutdown signal received.
+2026-02-25 21:20:58,197 - WARNING - FFmpeg for Rotana Moussica exited. Restarting...
+2026-02-25 21:20:58,197 - ERROR - FFmpeg for Rotana Moussica exited.
+2026-02-25 21:20:58,207 - WARNING - FFmpeg for Rotana Masriya exited. Restarting...
+2026-02-25 21:20:58,207 - ERROR - FFmpeg for Rotana Masriya exited.
+2026-02-25 21:20:58,217 - WARNING - FFmpeg for Rotana Cinema exited. Restarting...
+2026-02-25 21:20:58,217 - ERROR - FFmpeg for Rotana Cinema exited.
+2026-02-25 21:20:58,228 - WARNING - FFmpeg for Rotana Classic exited. Restarting...
+2026-02-25 21:20:58,228 - ERROR - FFmpeg for Rotana Classic exited.
+2026-02-25 21:20:58,228 - WARNING - FFmpeg for Rotana Clip exited. Restarting...
+2026-02-25 21:20:58,228 - ERROR - FFmpeg for Rotana Clip exited.
+2026-02-25 21:20:58,260 - WARNING - FFmpeg for Rotana Khalijah exited. Restarting...
+2026-02-25 21:20:58,260 - ERROR - FFmpeg for Rotana Khalijah exited.
+2026-02-25 21:20:58,284 - INFO - Monitoring stopped.
+2026-02-25 21:22:54,949 - INFO - ✓ ffprobe detected.
+2026-02-25 21:22:54,950 - INFO - Starting perfectly aligned monitoring...
+2026-02-25 21:22:54,950 - INFO -   ✓ Rotana Masriya
+2026-02-25 21:22:54,951 - INFO -   ✓ Rotana Moussica
+2026-02-25 21:22:54,953 - INFO -   ✓ Rotana Clip
+2026-02-25 21:22:54,956 - INFO -   ✓ Rotana Khalijah
+2026-02-25 21:22:54,959 - INFO -   ✓ Rotana Cinema
+2026-02-25 21:22:54,963 - INFO -   ✓ Rotana Classic
+2026-02-25 21:23:26,872 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:27,937 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:29,002 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:30,061 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:31,126 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:32,185 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:33,245 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:34,307 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:35,370 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:36,435 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:37,504 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:38,567 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:39,633 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:40,693 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:41,757 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:42,822 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:43,889 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:44,953 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:46,017 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:47,080 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:48,143 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:49,203 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:50,267 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:51,333 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:52,397 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:53,463 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:54,531 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:55,592 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:56,654 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:57,717 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:58,779 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:23:59,865 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:00,935 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:01,994 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:03,157 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:04,223 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:05,284 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:06,366 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:07,436 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:08,497 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:09,563 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:10,717 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:11,780 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:12,841 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:13,901 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:14,962 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:16,023 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:17,088 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:18,149 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:19,209 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:20,269 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:21,332 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:22,388 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:23,454 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:24,521 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:25,582 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:26,643 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:27,712 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:28,780 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:29,839 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:30,900 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:31,963 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:33,023 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:34,092 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:35,155 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:36,217 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:37,278 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:38,350 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:39,411 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:40,474 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:41,534 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:42,593 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:43,658 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:44,719 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:45,775 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:46,877 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:47,938 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:48,996 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:50,057 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:51,119 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:52,185 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:53,244 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:54,304 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:55,362 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:56,422 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:57,494 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:58,561 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:24:59,619 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:00,739 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:01,797 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:02,855 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:03,920 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:04,982 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:06,041 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:07,100 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:08,159 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:09,221 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:10,279 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:11,341 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:12,409 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:13,468 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:14,531 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:15,587 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:16,648 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:17,705 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:18,765 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:19,829 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:20,888 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:21,952 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:23,013 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:24,075 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:25,143 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:26,202 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:27,265 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:28,326 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:29,385 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:30,445 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:31,509 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:32,571 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:33,632 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:34,689 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:35,753 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:36,813 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:37,871 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:38,928 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:39,989 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:41,050 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:42,115 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:43,179 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:44,238 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:45,299 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:46,367 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:47,423 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:48,479 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:49,537 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:50,599 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:51,657 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:52,713 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:53,770 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:54,830 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:55,890 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:56,950 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:58,007 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:25:59,066 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:00,126 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:01,188 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:02,251 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:03,314 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:04,371 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:05,429 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:06,494 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:07,555 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:08,614 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:26:09,678 - WARNING - ZERO BITRATE: Rotana Khalijah
+2026-02-25 21:28:20,148 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:21,213 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:22,271 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:23,331 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:24,388 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:25,448 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:26,509 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:27,566 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:28,623 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:29,688 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:30,847 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:31,912 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:32,972 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:34,029 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:35,089 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:36,151 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:37,207 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:38,267 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:39,325 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:40,392 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:41,452 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:42,516 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:43,573 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:44,633 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:45,696 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:46,753 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:47,810 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:48,867 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:49,928 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:50,990 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:52,053 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:53,111 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:54,172 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:55,231 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:56,288 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:57,350 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:58,411 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:28:59,476 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:00,538 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:01,596 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:02,653 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:03,712 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:04,770 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:05,834 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:06,894 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:07,953 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:09,010 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:10,071 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:11,135 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:12,194 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:13,254 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:14,315 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:15,376 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:16,432 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:17,493 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:18,551 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:19,610 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:20,672 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:21,733 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:22,792 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:23,850 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:24,907 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:25,969 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:27,030 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:28,094 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:29,152 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:30,208 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:31,271 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:32,337 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:33,394 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:34,453 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:35,509 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:36,566 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:37,627 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:38,688 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:39,750 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:40,814 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:41,870 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:42,927 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:43,985 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:45,045 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:46,104 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:47,166 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:48,223 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:49,282 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:50,346 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:51,403 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:52,460 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:53,516 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:54,572 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:55,632 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:56,689 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:57,751 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:58,812 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:29:59,868 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:00,927 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:01,983 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:03,044 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:04,106 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:05,162 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:06,228 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:07,293 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:08,353 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:09,410 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:10,473 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:11,530 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:12,593 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:13,650 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:14,707 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:15,778 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:16,839 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:17,896 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:18,952 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:20,015 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:21,075 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:22,135 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:23,194 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:24,257 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:25,313 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:26,374 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:27,437 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:28,499 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:29,556 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:30,618 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:31,675 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:32,731 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:33,792 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:34,849 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:35,904 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:36,963 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:38,024 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:39,081 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:40,142 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:41,202 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:42,259 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:43,320 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:44,383 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:45,444 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:46,502 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:47,559 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:48,618 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:49,683 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:50,739 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:51,796 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:30:52,854 - WARNING - ZERO BITRATE: Rotana Classic
+2026-02-25 21:33:08,039 - INFO - Shutdown signal received.
+2026-02-25 21:33:08,065 - ERROR - FFmpeg for Rotana Clip exited.
+2026-02-25 21:33:08,066 - ERROR - FFmpeg for Rotana Moussica exited.
+2026-02-25 21:33:08,075 - ERROR - FFmpeg for Rotana Masriya exited.
+2026-02-25 21:33:08,076 - ERROR - FFmpeg for Rotana Classic exited.
+2026-02-25 21:33:08,079 - ERROR - FFmpeg for Rotana Cinema exited.
+2026-02-25 21:33:08,103 - ERROR - FFmpeg for Rotana Khalijah exited.
+2026-02-25 21:33:08,113 - INFO - Monitoring stopped.

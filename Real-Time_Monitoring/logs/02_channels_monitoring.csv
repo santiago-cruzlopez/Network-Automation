@@ -1,0 +1,7 @@
+Timestamp,Channel,Multicast,VideoStatus,VideoFrames,AudioStatus,AVSync,Bitrate_mbps,PPS,SystemSync,Status
+2026-02-25 21:33:07,Rotana Masriya,239.239.8.90:1234,Good Video,30559 frames,Good Audio,In Sync,0.8837,587.56,Good Sync,OK
+2026-02-25 21:33:07,Rotana Moussica,239.239.8.91:1234,Good Video,30523 frames,Good Audio,In Sync,1.2624,839.37,Good Sync,OK
+2026-02-25 21:33:07,Rotana Clip,239.239.8.92:1234,Good Video,30517 frames,Good Audio,In Sync,1.2729,846.37,Good Sync,OK
+2026-02-25 21:33:07,Rotana Khalijah,239.239.8.93:1234,Good Video,11118 frames,Good Audio,In Sync,0.6207,412.69,Good Sync,OK
+2026-02-25 21:33:07,Rotana Cinema,239.239.8.95:1234,Good Video,30515 frames,Good Audio,In Sync,1.4307,951.29,Good Sync,OK
+2026-02-25 21:33:07,Rotana Classic,239.239.8.96:1234,Good Video,11392 frames,Good Audio,In Sync,1.1888,790.41,Good Sync,OK

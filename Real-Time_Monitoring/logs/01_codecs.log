@@ -1,0 +1,15 @@
+2026-02-25 21:14:48,781 - INFO - ffprobe detected.
+2026-02-25 21:14:48,781 - INFO - Probing source stream status for all the Channels:
+2026-02-25 21:14:54,164 - INFO -   ✓ Rotana Masriya..................... OK
+2026-02-25 21:14:59,543 - INFO -   ✓ Rotana Moussica.................... OK
+2026-02-25 21:15:04,986 - INFO -   ✓ Rotana Clip........................ OK
+2026-02-25 21:15:10,230 - INFO -   ✓ Rotana Khalijah.................... OK
+2026-02-25 21:15:15,684 - INFO -   ✓ Rotana Cinema...................... OK
+2026-02-25 21:15:21,055 - INFO -   ✓ Rotana Classic..................... OK
+2026-02-25 21:15:21,056 - INFO - Static Probing Finished.
+2026-02-25 21:15:21,056 - INFO - SO_REUSEPORT enabled
+2026-02-25 21:15:21,056 - INFO - Successfully bound to UDP port 1234
+2026-02-25 21:15:21,057 - INFO - Starting Real-Time Monitoring. Press Ctrl+C to stop.
+2026-02-25 21:15:21,057 - INFO - CSV file will be OVERWRITTEN every second with latest values → 01_channels_codecs.csv
+2026-02-25 21:16:05,881 - INFO - Shutdown signal received.
+2026-02-25 21:16:05,882 - INFO - Monitoring stopped.

@@ -1,0 +1,7 @@
+Timestamp,Channel Name,Multicast Source,Video_Format,Audio Format,Resolution,Scan Type,FPS,Bitrate_mbps,PPS,Status
+2026-02-25 21:16:05,Rotana Masriya,239.239.8.90:1234,H264,AAC,720x576,Progressive,50.00,1.4737,979.85,OK
+2026-02-25 21:16:05,Rotana Moussica,239.239.8.91:1234,H264,AAC,852x480,Progressive,50.00,1.1263,748.88,OK
+2026-02-25 21:16:05,Rotana Clip,239.239.8.92:1234,H264,AAC,852x480,Progressive,50.00,1.7263,1147.82,OK
+2026-02-25 21:16:05,Rotana Khalijah,239.239.8.93:1234,H264,AAC,1920x1080,Progressive,25.00,1.1158,741.88,OK
+2026-02-25 21:16:05,Rotana Cinema,239.239.8.95:1234,H264,AAC,720x576,Progressive,50.00,0.9053,601.91,OK
+2026-02-25 21:16:05,Rotana Classic,239.239.8.96:1234,H264,AAC,720x576,Progressive,25.00,1.2105,804.87,OK
