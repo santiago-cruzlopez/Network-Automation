@@ -1,0 +1,216 @@
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:49,SRT Feed,srt://207.35.238,N/A,0,N/A,N/A,N/A,0.00,0,0,N/A,Checking...
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:50,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:51,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:52,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:53,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:54,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:55,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:56,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:57,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:58,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:56:59,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:00,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:01,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:02,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:03,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:04,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:05,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:06,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:07,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:08,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:09,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:10,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:11,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:12,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:13,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:14,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:15,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:16,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:17,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:18,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:19,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:20,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:21,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:22,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:23,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:24,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:25,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:26,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:27,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:28,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:29,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:30,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:31,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:32,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:33,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:34,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:35,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:36,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:37,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:38,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:39,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:40,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:41,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:42,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:43,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:44,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:45,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:46,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:47,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:48,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:49,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:50,SRT Feed,srt://207.35.238,Connecting,0,Connecting,N/A,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 12:57:51,SRT Feed,srt://207.35.238,FFmpeg Error,0,Connecting,N/A,FFmpeg Error,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:52,SRT Feed,srt://207.35.238,N/A,0,N/A,N/A,N/A,0.00,0,0,N/A,Checking...
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:53,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:54,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:55,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:56,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:57,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:58,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:15:59,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:00,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:01,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:02,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:03,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:04,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:05,SRT Feed,srt://207.35.238,FFmpeg Error,0,Good Audio,In Sync,FFmpeg Error,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:06,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:07,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:08,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:09,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,N/A,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:10,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:11,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:12,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:13,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:14,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:15,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:16,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:17,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:18,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:19,SRT Feed,srt://207.35.238,Good Video,0,Good Audio,In Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:20,SRT Feed,srt://207.35.238,Good Video,41,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:21,SRT Feed,srt://207.35.238,Good Video,201,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:22,SRT Feed,srt://207.35.238,Good Video,361,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:23,SRT Feed,srt://207.35.238,Good Video,386,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:24,SRT Feed,srt://207.35.238,Good Video,404,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:25,SRT Feed,srt://207.35.238,Good Video,456,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:26,SRT Feed,srt://207.35.238,Good Video,481,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:27,SRT Feed,srt://207.35.238,Good Video,511,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:28,SRT Feed,srt://207.35.238,Good Video,537,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:29,SRT Feed,srt://207.35.238,Good Video,564,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:30,SRT Feed,srt://207.35.238,Good Video,596,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:31,SRT Feed,srt://207.35.238,Good Video,628,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:32,SRT Feed,srt://207.35.238,Good Video,660,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:33,SRT Feed,srt://207.35.238,Good Video,692,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:34,SRT Feed,srt://207.35.238,Good Video,724,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:35,SRT Feed,srt://207.35.238,Good Video,755,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good
+Timestamp,Feed,URI,Video,Frames,Audio,AV Sync,TS Status,Bitrate (Mbps),PCR Discont,Cont. Errors,PSI Summary,Sync
+2026-02-27 13:16:36,SRT Feed,srt://207.35.238,Good Video,787,Good Audio,Out Sync,Alert,0.00,0,0,PSI Error,NTP Good

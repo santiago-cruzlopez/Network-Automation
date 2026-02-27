@@ -61,3 +61,6 @@ dkms.conf
 build/
 bin/
 lib/
+
+# Ignore .venv virtual environment
+TS-Analyzer/
